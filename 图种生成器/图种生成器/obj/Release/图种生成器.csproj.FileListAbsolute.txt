@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\bin\Release\图种生成器.exe.config
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\bin\Release\图种生成器.exe
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\bin\Release\图种生成器.pdb
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\bin\Release\SunnyUI.Common.dll
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\bin\Release\SunnyUI.dll
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.Home.resources
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.Instructions.resources
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.csproj.Up2Date
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.exe
+C:\Users\Administrator\Desktop\图种生成器\图种生成器\obj\Release\图种生成器.pdb

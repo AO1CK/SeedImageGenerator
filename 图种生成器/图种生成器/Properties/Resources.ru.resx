@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Генератор стеганографии изображений</value>
+    <comment>Название приложения</comment>
+  </data>
+  <data name="OriginalFilePath" xml:space="preserve">
+    <value>Путь к исходному файлу:</value>
+    <comment>Метка пути к исходному файлу</comment>
+  </data>
+  <data name="CompressedFilePath" xml:space="preserve">
+    <value>Путь к сжатому файлу:</value>
+    <comment>Метка пути к сжатому файлу</comment>
+  </data>
+  <data name="OriginalFilePlaceholder" xml:space="preserve">
+    <value>(Поддерживает PNG, BMP, MP3 и другие форматы файлов)</value>
+    <comment>Текст-заполнитель для исходного файла</comment>
+  </data>
+  <data name="CompressedFilePlaceholder" xml:space="preserve">
+    <value>(Поддерживает ZIP, 7z и другие форматы)</value>
+    <comment>Текст-заполнитель для сжатого файла</comment>
+  </data>
+  <data name="SelectFile" xml:space="preserve">
+    <value>Выбрать файл</value>
+    <comment>Текст кнопки выбора файла</comment>
+  </data>
+  <data name="GenerateFile" xml:space="preserve">
+    <value>Создать файл</value>
+    <comment>Текст кнопки создания файла</comment>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+    <comment>Пункт меню настроек</comment>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>О программе</value>
+    <comment>Пункт меню о программе</comment>
+  </data>
+  <data name="CompatibilityGuide" xml:space="preserve">
+    <value>Руководство по совместимости</value>
+    <comment>Пункт меню руководства по совместимости</comment>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>Автор</value>
+    <comment>Пункт меню автор</comment>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Язык</value>
+    <comment>Пункт меню язык</comment>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Тема</value>
+    <comment>Пункт меню тема</comment>
+  </data>
+  <data name="Chinese" xml:space="preserve">
+    <value>中文</value>
+    <comment>Китайский язык</comment>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+    <comment>Английский язык</comment>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>日本語</value>
+    <comment>Японский язык</comment>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Русский</value>
+    <comment>Русский язык</comment>
+  </data>
+  <data name="LightTheme" xml:space="preserve">
+    <value>Светлая</value>
+    <comment>Светлая тема</comment>
+  </data>
+  <data name="DarkTheme" xml:space="preserve">
+    <value>Темная</value>
+    <comment>Темная тема</comment>
+  </data>
+</root> 

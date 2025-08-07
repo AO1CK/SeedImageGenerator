@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppTitle" xml:space="preserve">
+    <value>画像ステガノグラフィ生成器</value>
+    <comment>アプリケーションタイトル</comment>
+  </data>
+  <data name="OriginalFilePath" xml:space="preserve">
+    <value>元ファイルパス：</value>
+    <comment>元ファイルパスラベル</comment>
+  </data>
+  <data name="CompressedFilePath" xml:space="preserve">
+    <value>圧縮ファイルパス：</value>
+    <comment>圧縮ファイルパスラベル</comment>
+  </data>
+  <data name="OriginalFilePlaceholder" xml:space="preserve">
+    <value>(PNG、BMP、MP3などのファイル形式をサポート)</value>
+    <comment>元ファイルプレースホルダーテキスト</comment>
+  </data>
+  <data name="CompressedFilePlaceholder" xml:space="preserve">
+    <value>(ZIP、7zなどの形式をサポート)</value>
+    <comment>圧縮ファイルプレースホルダーテキスト</comment>
+  </data>
+  <data name="SelectFile" xml:space="preserve">
+    <value>ファイル選択</value>
+    <comment>ファイル選択ボタンテキスト</comment>
+  </data>
+  <data name="GenerateFile" xml:space="preserve">
+    <value>ファイル生成</value>
+    <comment>ファイル生成ボタンテキスト</comment>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>設定</value>
+    <comment>設定メニュー項目</comment>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>について</value>
+    <comment>についてメニュー項目</comment>
+  </data>
+  <data name="CompatibilityGuide" xml:space="preserve">
+    <value>互換性ガイド</value>
+    <comment>互換性ガイドメニュー項目</comment>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>作者</value>
+    <comment>作者メニュー項目</comment>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>言語</value>
+    <comment>言語メニュー項目</comment>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>テーマ</value>
+    <comment>テーマメニュー項目</comment>
+  </data>
+  <data name="Chinese" xml:space="preserve">
+    <value>中文</value>
+    <comment>中国語オプション</comment>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+    <comment>英語オプション</comment>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>日本語</value>
+    <comment>日本語オプション</comment>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Русский</value>
+    <comment>ロシア語オプション</comment>
+  </data>
+  <data name="LightTheme" xml:space="preserve">
+    <value>ライト</value>
+    <comment>ライトテーマ</comment>
+  </data>
+  <data name="DarkTheme" xml:space="preserve">
+    <value>ダーク</value>
+    <comment>ダークテーマ</comment>
+  </data>
+</root> 
